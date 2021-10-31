@@ -1,0 +1,9 @@
+{
+  "name": "My Repository",
+  "homepage": "http://packages.grok.codes",
+  "require-all": true,
+  "repositories": [
+    { "type": "vcs", "url": "https://github.com/andykillen/" }
+  ]
+  
+}
