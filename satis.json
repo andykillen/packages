@@ -3,7 +3,8 @@
   "homepage": "https://packages.grok.codes",
   "require-all": true,
   "repositories": [
-    { "type": "vcs", "url": "https://github.com/andykillen/blog-json" }
+    { "type": "vcs", "url": "https://github.com/andykillen/blog-json" },
+    { "type": "vcs", "url": "https://github.com/andykillen/blog-video" }
   ]
   
 }
