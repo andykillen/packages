@@ -5,7 +5,8 @@
   "repositories": [
     { "type": "vcs", "url": "https://github.com/andykillen/blog-json" },
     { "type": "vcs", "url": "https://github.com/andykillen/blog-video" },
-    { "type": "vcs", "url": "https://github.com/andykillen/wordfest-live" }
+    { "type": "vcs", "url": "https://github.com/andykillen/wordfest-live" },
+    { "type": "vcs", "url": "https://github.com/andykillen/headless-wordpress" }
   ]
   
 }
